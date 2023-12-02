@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'todolist_project.wsgi.application'
+WSGI_APPLICATION = 'todolist_project.wsgi.app'
 
 
 # Database
